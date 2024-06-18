@@ -54,9 +54,11 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: "images/WechatIMG298.jpg"
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/erictonger/erictonger.github.io
 
+  gitBranch: eric-blog-toha-style
   features:
     # Enable portfolio section
     portfolio:
@@ -73,3 +75,4 @@ params:
   # Configure footer
   footer:
     enable: true
+  
