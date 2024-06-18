@@ -10,6 +10,7 @@ llkjl
 adasd
 # .......
 l;l
+okoko
 # 1. 仓库内容
 
 
