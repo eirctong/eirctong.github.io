@@ -54,7 +54,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: "images/site/bgd.jpg"
+  background: "images/site/test.jpeg"
   # GitHub repo URL of your site
   gitRepo: https://github.com/erictonger/erictonger.github.io
 
@@ -67,6 +67,7 @@ params:
     # Enable blog posts
     blog:
       enable: true
+      showAuthor: true
 
     # Enable Table of contents in reading page
     toc:
@@ -75,4 +76,3 @@ params:
   # Configure footer
   footer:
     enable: true
-  

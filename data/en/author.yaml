@@ -1,21 +1,18 @@
 # some information about you
 name: "Eirc Tong"
-nickname: "Welcome"
+nickname: "Eric."
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "It's Eric,"
-image: "images/author/eric-avatar.png"
+greeting: "It's"
+image: "images/author/heisenberg.jpeg"
 
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "erichen998@example.com"
+  email: "erichen998@gmial.com"
   phone: "+77-7777777"
   github: erictonger
   linkedin: erictonger
 
 # some summary about what you do
 summary:
-  - Do whatever you want
-  - I'm a Developer
-  - NetDevops
-  - I love Network Technology
-  - I work on open-source projects
+  - I'm a Developer, NetDevops, love Network Technology
+  - Welcome to my site~
